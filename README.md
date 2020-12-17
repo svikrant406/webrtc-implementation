@@ -28,7 +28,7 @@ $ npm run build
 
 ```sh
 # To check build working or not 
-** Navigate to project root **
+** Navigate to application root **
 $ npm start
 
 # Visit http://localhost:5000
