@@ -4,6 +4,7 @@ WebRTC implementation with socket.io &amp; React.js
 ### Version: 1.0.0
 
 ### Usage
+> Navigate to application root
 
 ```sh
 # To install dependencies
@@ -28,7 +29,6 @@ $ npm run build
 
 ```sh
 # To check build working or not 
-** Navigate to application root **
 $ npm start
 
 # Visit http://localhost:5000
