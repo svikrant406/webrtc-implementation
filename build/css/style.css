@@ -1,0 +1,7 @@
+.video {
+  --width: 30%;
+  width: var(--width);
+  height: calc(var(--width) * 0.75);
+  margin: 10px 20px;
+  vertical-align: top;
+}
