@@ -24,9 +24,11 @@ $ npm start
 # To create build
 $ cd client
 $ npm run build
+```
 
+```sh
 # To check build working or not 
-# Navigate to project root
+** Navigate to project root **
 $ npm start
 
 # Visit http://localhost:5000
