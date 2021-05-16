@@ -1,4 +1,4 @@
-# Webrtc Implementation
+# WebRTC Implementation
 WebRTC implementation with socket.io &amp; React.js
 
 ### Version: 1.0.0
